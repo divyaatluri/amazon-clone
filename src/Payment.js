@@ -159,7 +159,6 @@ function Payment() {
                             
                         </form>
                     </div>
-                    
                 </div>
 
             </div>
